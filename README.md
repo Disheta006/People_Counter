@@ -9,9 +9,8 @@ This project allows users to count the number of people entering a place and sav
 🔗 [View Live Demo](https://plpcounter.netlify.app/)
 
 ## 📸 Preview
+<img width="1920" height="1080" alt="Screenshot 2026-07-21 172409" src="https://github.com/user-attachments/assets/933a5537-743c-478b-b0d1-1c2a9b77edf7" />
 
-![Project Image](<img width="1920" height="1080" alt="Screenshot 2026-07-21 172409" src="https://github.com/user-attachments/assets/933a5537-743c-478b-b0d1-1c2a9b77edf7" />
-)
 
 ## ✨ Features
 
